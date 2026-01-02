@@ -25,6 +25,8 @@ Technologies used:
 - Canvas and custom drag-and-drop system
 - Custom player controller
 
+![Demo GIF](./English-Game-Demo/demo.gif)
+
 ## Swift-AR
 
 Overlay an AR experience on top of an iPhone's camera feed. 
