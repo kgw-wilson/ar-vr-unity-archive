@@ -2,7 +2,7 @@
 
 This repo contains some of the projects I created in Q4 2021 when I was first diving into mixed reality development. Each directory contains the project code, along with a demo video.
 
-## AR-Basketball
+## Passthrough AR Basketball
 
 Spawn and position a basketball goal, then throw balls in the goal to get points. 
 
@@ -12,6 +12,8 @@ Technologies used:
 - Oculus Integration Toolkit
 - Experimental Oculus Passthrough API
 - XR Plugin Management
+
+![Demo GIF](./Passthrough-AR-Basketball/demo.gif)
 
 ## English-Game
 
