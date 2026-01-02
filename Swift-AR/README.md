@@ -1,14 +1,15 @@
 # Swift AR
 
-This was my first foray into developing AR apps
-for the iOS ecosystem, and one of my first times
-using Swift. Here are some learning outcomes:
+Overview
 
-- Learning Swift's structure and syntax
-- Learning UIKit, SwiftUI, and their differences
-- Learning the XCode development environment and deploying onto an iPhone
-- Using RealityKit to render an AR Experiences on top of a camera feed
+Swift AR was my first project exploring augmented reality development in the iOS ecosystem. The goal of this project was to gain hands-on experience building AR applications while improving familiarity with Apple’s development tools and frameworks.
 
-I later used this app as a starting point for 
-other AR iOS projects. Please check out the demo
-video to see this simple app in action.
+## Takeaways
+
+• Understanding Swift syntax
+
+• Working with UIKit and SwiftUI, and learning their differences
+
+• Using Xcode to build and deploy applications to a physical iPhone
+
+• Rendering AR content using RealityKit on top of a live camera feed

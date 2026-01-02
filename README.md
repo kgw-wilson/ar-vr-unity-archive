@@ -37,6 +37,8 @@ Technologies used:
 - SwiftUI
 - RealityKit
 
+![Demo GIF](./Swift-AR/demo.gif)
+
 ## VR-Meditation
 
 - Unity 2020.3.16
