@@ -44,3 +44,5 @@ Technologies used:
 - Unity 2020.3.16
 - VR-compatible UI system
 - 3D spatial audio
+
+![Demo GIF](./VR-Meditation/demo.gif)

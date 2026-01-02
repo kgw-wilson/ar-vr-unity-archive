@@ -1,15 +1,23 @@
 # VR-Meditation
 
-### Description
+## Overview
 
-Back in 2021, the meditation app I tried on the Oculus Quest felt too 
-complicated, so I made my own simple meditation app for myself. Check 
-out the demo.mp4 file to see the app.
+VR-Meditation is a simple meditation app built for the Oculus Quest. Created in 2021, the project was inspired by a desire for a more minimal and distraction-free meditation experience than what was available in the Oculus app store at the time.
 
-Unused assets were cleaned up using the Unity Sweeper plugin.
+Unused assets were removed using the Unity Sweeper plugin to reduce project size.
 
-### Features
+## Features
 
-The app shows the user a VR-compatible menu system that allows them to set a timer, pause/change the timer, choose between virtual environments, and select a background noise.
+Meditation Controls
 
-Once the chosen amount of time passes, a bell rings to signal the end of the meditation. There is also background music if you want to enable that.
+• A VR-friendly menu for setting and adjusting the meditation timer
+
+• Options to pause, resume, or change the session duration
+
+• A bell sound signals the end of the meditation session
+
+Environment & Audio Selection
+
+• Multiple virtual environments to choose from
+
+• Optional 3D spatial audio for background noise
